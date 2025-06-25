@@ -6,4 +6,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://ai-techcorp.com/sitemap.xml
+Sitemap: https://arjuninfotechinc.com/sitemap.xml
