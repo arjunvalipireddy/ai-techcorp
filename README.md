@@ -1,1 +1,2 @@
-# ai-techcorp
+# ARJUN INFOTECH INC - ESTABLISHED 2010
+We deliver cutting-edge AI-driven solutions that guide our clients from strategy to execution, ensuring top-tier technology performance. By integrating consulting, automation, and next-gen innovations, we optimize system quality, mitigate risks, and enhance business efficiency with intelligent, scalable support. Our expertise in load testing ensures applications can handle real-world traffic, delivering seamless performance under any demand.
